@@ -49,3 +49,14 @@ Get it from: https://platform.stability.ai/account/api-keys
 cd (Folder location)
 
 streamlit run app.py
+
+
+## ScreenShots:
+<img width="1920" height="1080" alt="pi1" src="https://github.com/user-attachments/assets/2bd3b7ef-4f1a-4539-9171-9a999bb67e65" />
+<img width="1920" height="1080" alt="pi2" src="https://github.com/user-attachments/assets/d6b22ab1-1ec7-4941-903d-b7623df1e1cd" />
+<img width="1920" height="1080" alt="pi3" src="https://github.com/user-attachments/assets/313eb33f-51c5-4965-9ec8-bf37d41c412d" />
+<img width="1920" height="1080" alt="pi4" src="https://github.com/user-attachments/assets/a6d48637-002a-4926-969b-a15a8e3689e5" />
+
+
+
+
