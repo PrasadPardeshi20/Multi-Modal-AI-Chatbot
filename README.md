@@ -46,4 +46,5 @@ You do not need to store keys in files. When you run the app, there will be inpu
 ## ▶️ Usage:
 **Run the Streamlit app:**
 cd (Folder location)
+
 streamlit run app.py
