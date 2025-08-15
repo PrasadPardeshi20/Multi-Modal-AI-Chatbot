@@ -1,6 +1,0 @@
-streamlit
-google-generativeai
-Pillow
-openai>=1.0.0
-stability-sdk
-requests
