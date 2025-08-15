@@ -45,6 +45,7 @@ Get it from: https://platform.stability.ai/account/api-keys
 
 ## ▶️ Usage:
 **Run the Streamlit app:**
+
 cd (Folder location)
 
 streamlit run app.py
