@@ -41,7 +41,7 @@ Get it from: https://platform.openai.com/api-keys
 
 Get it from: https://platform.stability.ai/account/api-keys
 
-You do not need to store keys in files. When you run the app, there will be input boxes in the sidebar where you can paste your keys.
+**You do not need to store keys in files. When you run the app, there will be input boxes in the sidebar where you can paste your keys.**
 
 ## ▶️ Usage:
 **Run the Streamlit app:**
